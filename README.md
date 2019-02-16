@@ -1,4 +1,4 @@
-# DataIncubatorProject
+# DI_Project
 
 Predicting future growths and employment trends of companies from different industrial fields by machine learning
 1. Extract time-dependent increasing rates (%) of followers and employees of multi-field companies from Linkedin data as features, and regard the industrial field which these companies belong to as labels.
