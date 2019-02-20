@@ -11,4 +11,4 @@ Predicting future growths and employment trends of companies from different indu
 On Feb 2, 2019 for the challenge submission, step 1, which aims to extract the time-dependent increasing trends of followers and employees from Linkedin data for companies in various fields, has been partly finished. Chart 1 and 2 are two example figures to show this. The first chart illustrates the time-dependent follower increasing rates of six different investment banking companies, and the second chart illustrates the time-dependent employees increasing rates of seven different restaurant companies. 
 
 
-On Feb 20, 2019 before the data incubator interview, step 1 and step 2 have been finished. Figures and results are shown in the uploaded PDF slides. Link for slides: https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A9c781aae-5e0d-4e44-a278-f127e8f8ca48
+On Feb 20, 2019 before the data incubator interview, step 1 and step 2 have been finished. Figures and results are shown in the uploaded PDF slides. Link for slides: https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Aede48a70-fbc7-4ef8-b5c6-22fba2420751
